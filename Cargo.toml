@@ -1,0 +1,6 @@
+[package]
+name = "getskillsfast"
+version = "0.1.0"
+authors = ["Gary Murphy <compsciguy.it@gmail.com>"]
+
+[dependencies]
