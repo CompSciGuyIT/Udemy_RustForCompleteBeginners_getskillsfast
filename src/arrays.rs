@@ -3,4 +3,8 @@ fn main() {
     println!("{:?}", array);
     array[3] = 90;
     println!("{:?}", array);
+    let array2 = [3, 3, 3, 3];
+    let array3 = [3; 4];
+    println!("{:?}", array2);
+    println!("{:?}", array3);
 }
